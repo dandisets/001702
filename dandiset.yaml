@@ -89,7 +89,7 @@ description: 'This dataset contains raw and processed experimental data supporti
   disease pathology, and memory circuits. All data have been organized in compliance
   with FAIR principles to support reuse in neuroscience research and NIH Data Management
   and Sharing Policy requirements. Transcriptomic data associated with this study
-  are deposited separately in the Gene Expression Omnibus (GEO) under accession GSEXXXXX
+  are deposited separately in the Gene Expression Omnibus (GEO) under accession GSE317499
   and are linked here as a related resource. Transcriptomic data associated with this
   study are deposited separately in the Gene Expression Omnibus (GEO) under accession
   GSE317499 and are linked here as a related resource.'
